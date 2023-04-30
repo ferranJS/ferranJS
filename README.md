@@ -1,6 +1,9 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=I'm%20not%20a%20library!&width=490&height=140)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=I'm%20not%20a%20library!&width=555&height=140)](https://github.com/Akshay090/svg-banners)
+
+![My Skills](https://skillicons.dev/icons?i=typescript,angular,nextjs,reactivex,firebase,tailwind,regex,github,gitlab,figma)
 
 <!--
+https://github.com/tandpfun/skill-icons#icons-list
 **ferranJS/ferranJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
