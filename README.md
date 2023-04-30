@@ -1,5 +1,4 @@
-### Hi there 👋
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Ferran%20is%20Viiiiibing&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=I'm%20not%20a%20library!&width=490&height=140)](https://github.com/Akshay090/svg-banners)
 
 <!--
 **ferranJS/ferranJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
