@@ -1,6 +1,16 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=I'm%20not%20a%20library!&width=555&height=140)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=I'm%20not%20a%20library!&width=522&height=140)](https://github.com/Akshay090/svg-banners)
 
-![My Skills](https://skillicons.dev/icons?i=typescript,angular,nextjs,reactivex,firebase,tailwind,regex,github,gitlab,figma)
+
+[![typescript](https://skillicons.dev/icons?i=typescript)](https://github.com/standard/ts-standard)
+[![angular](https://skillicons.dev/icons?i=angular)](https://github.com/angular)
+[![nextjs](https://skillicons.dev/icons?i=nextjs)](https://github.com/vercel/next.js)
+[![reactivex](https://skillicons.dev/icons?i=reactivex)](https://github.com/ReactiveX/rxjs)
+[![firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+[![tailwind](https://skillicons.dev/icons?i=tailwind)](https://github.com/tailwindlabs/tailwindcss)
+[![regex](https://skillicons.dev/icons?i=regex)](https://es.wikipedia.org/wiki/Expresi%C3%B3n_regular)
+[![github](https://skillicons.dev/icons?i=github)](https://docs.github.com/en)
+[![gitlab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
+[![figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 
 <!--
 https://github.com/tandpfun/skill-icons#icons-list
