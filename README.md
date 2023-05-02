@@ -4,7 +4,7 @@
 [![typescript](https://skillicons.dev/icons?i=typescript)](https://github.com/standard/ts-standard)
 [![angular](https://skillicons.dev/icons?i=angular)](https://github.com/angular)
 [![nextjs](https://skillicons.dev/icons?i=nextjs)](https://github.com/vercel/next.js)
-[![reactivex](https://skillicons.dev/icons?i=reactivex)](https://github.com/ReactiveX/rxjs)
+[![reactivex](https://skillicons.dev/icons?i=reactivex)](https://ngrx.io/)
 [![firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 [![tailwind](https://skillicons.dev/icons?i=tailwind)](https://github.com/tailwindlabs/tailwindcss)
 [![regex](https://skillicons.dev/icons?i=regex)](https://es.wikipedia.org/wiki/Expresi%C3%B3n_regular)
