@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=I'm%20not%20a%20library!&width=520&height=140)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=I'm%20not%20a%20library!&width=519&height=140)](https://github.com/Akshay090/svg-banners)
 
 
 [![typescript](https://skillicons.dev/icons?i=typescript)](https://github.com/standard/ts-standard)
