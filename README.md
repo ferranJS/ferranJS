@@ -7,10 +7,10 @@
 [![reactivex](https://skillicons.dev/icons?i=reactivex)](https://ngrx.io/)
 [![firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 [![tailwind](https://skillicons.dev/icons?i=tailwind)](https://github.com/tailwindlabs/tailwindcss)
-[![regex](https://skillicons.dev/icons?i=regex)](https://es.wikipedia.org/wiki/Expresi%C3%B3n_regular)
 [![github](https://skillicons.dev/icons?i=github)](https://docs.github.com/en)
 [![gitlab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
 [![figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![regex](https://skillicons.dev/icons?i=regex)](https://es.wikipedia.org/wiki/Expresi%C3%B3n_regular)
 
 <!--
 https://github.com/tandpfun/skill-icons#icons-list
