@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=I'm%20not%20a%20library!&width=519&height=140)](https://github.com/ferranJS/ferranJS)
 
-[**`ferran.tech`**](https://ferran.tech/)
+[**`ferran.tech`**](https://ferran.tech/) (working on it & more projects)
 
 [![typescript](https://skillicons.dev/icons?i=typescript)](https://github.com/standard/ts-standard)
 [![angular](https://skillicons.dev/icons?i=angular)](https://github.com/angular)
