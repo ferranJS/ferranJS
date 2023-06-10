@@ -4,14 +4,13 @@
 
 [![typescript](https://skillicons.dev/icons?i=typescript)](https://github.com/standard/ts-standard)
 [![angular](https://skillicons.dev/icons?i=angular)](https://github.com/angular)
-[![nextjs](https://skillicons.dev/icons?i=nextjs)](https://github.com/vercel/next.js)
-[![reactivex](https://skillicons.dev/icons?i=reactivex)](https://ngrx.io/)
 [![firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+[![nextjs](https://skillicons.dev/icons?i=nextjs)](https://github.com/vercel/next.js)
+[![astro](https://skillicons.dev/icons?i=astro)](https://astro.build/)
+[![redux](https://skillicons.dev/icons?i=redux)](https://ngrx.io/)
+[![reactivex](https://skillicons.dev/icons?i=reactivex)](https://rxjs.dev/)
 [![tailwind](https://skillicons.dev/icons?i=tailwind)](https://github.com/tailwindlabs/tailwindcss)
-[![github](https://skillicons.dev/icons?i=github)](https://docs.github.com/en)
-[![gitlab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
 [![figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-[![regex](https://skillicons.dev/icons?i=regex)](https://es.wikipedia.org/wiki/Expresi%C3%B3n_regular)
 
 
 <!--
