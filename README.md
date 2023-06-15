@@ -2,15 +2,34 @@
 
 [**`ferran.tech`**](https://ferran.tech/) `(working on it & more projects)`
 
-[![typescript](https://skillicons.dev/icons?i=typescript)](https://github.com/standard/ts-standard)
-[![angular](https://skillicons.dev/icons?i=angular)](https://github.com/angular)
-[![firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
-[![nextjs](https://skillicons.dev/icons?i=nextjs)](https://github.com/vercel/next.js)
-[![astro](https://skillicons.dev/icons?i=astro)](https://astro.build/)
-[![redux](https://skillicons.dev/icons?i=redux)](https://ngrx.io/)
-[![reactivex](https://skillicons.dev/icons?i=reactivex)](https://rxjs.dev/)
-[![tailwind](https://skillicons.dev/icons?i=tailwind)](https://github.com/tailwindlabs/tailwindcss)
-[![figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+
+<a href="https://github.com/standard/ts-standard" target="_blank">
+  <img title="typescript" alt="typescript icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</a>
+<a href="https://github.com/angular" target="_blank">
+  <img title="angular" alt="angular icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img title="firebase" alt="firebase icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+</a>
+<a href="https://github.com/vercel/next.js" target="_blank">
+  <img title="nextjs" alt="nextjs icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+</a>
+<a href="https://astro.build/" target="_blank">
+  <img title="astro" alt="astro icon" height="50" width="50" src="https://astro.js.org/astro.png" />
+</a>
+<a href="https://ngrx.io/" target="_blank">
+  <img title="redux" alt="redux icon" height="50" width="50" src="https://skillicons.dev/icons?i=redux" />
+</a>
+<a href="https://rxjs.dev/" target="_blank">
+  <img title="reactivex" alt="reactivex icon" height="50" width="50" src="https://skillicons.dev/icons?i=reactivex" />
+</a>
+<a href="https://github.com/tailwindlabs/tailwindcss" target="_blank">
+  <img title="tailwind" alt="tailwind icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+</a>
+<a href="https://www.figma.com/" target="_blank">
+  <img title="figma" alt="figma icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</a>
 
 
 <!--
