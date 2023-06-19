@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=I'm%20not%20a%20library!&width=519&height=140)](https://github.com/ferranJS/ferranJS)
 
- `old portfolio->` [**`ferran.tech`**](https://ferran.tech/) `(working on a new one & more projects)`
+`(working on a cool portfolio & more projects)`
 
 
 <a href="https://github.com/standard/ts-standard" target="_blank">
