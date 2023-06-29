@@ -66,12 +66,21 @@ Other ones:
 <a href="https://trello.com/" target="_blank">
   <img title="trello" alt="trello icon" height="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </a>
+<a href="https://gitlab.com/ferranJS" target="_blank">
+  <img title="gitlab" alt="gitlab icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+</a>
 <a href="https://www.figma.com/" target="_blank">
   <img title="figma" alt="figma icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </a>
-<a href="https://www.mysql.com/" target="_blank">
+<a href="https://gimp.org/" target="_blank">
+  <img title="gimp" alt="gimp icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+</a>
+<!-- <a href="https://www.mysql.com/" target="_blank">
   <img title="mysql" alt="mysql icon" height="49" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </a>
+<a href="https://gitlab.com/ferranJS" target="_blank">
+  <img title="gitlab" alt="gitlab icon" height="40" src="https://www.phpmyadmin.net/static/images/logo.png" />
+</a> -->
 
 <!--
 https://github.com/tandpfun/skill-icons#icons-list
