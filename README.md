@@ -17,6 +17,9 @@ Main technologies:
 <a href="https://astro.build/" target="_blank">
   <img title="astro" alt="astro icon" height="54" src="https://astro.js.org/astro.png" />
 </a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img title="postgre sql" alt="postgre sql icon" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+</a>
 <a href="https://github.com/tailwindlabs/tailwindcss" target="_blank">
   <img title="tailwind" alt="tailwind icon" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </a>
@@ -48,9 +51,6 @@ More technologies:
 &nbsp;
 <a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank">
   <img title="php" alt="php icon" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img title="postgre sql" alt="postgre sql icon" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </a>
 &nbsp;
 <a href="https://playwright.dev/" target="_blank">
