@@ -79,6 +79,9 @@ Eager to try out:
 
 Other ones I've used:
 
+<a href="https://driverjs.com/" target="_blank">
+  <img title="java" alt="java icon" height="43" src="https://driverjs.com/driver-head.svg" />
+</a>
 <a href="https://dev.java/" target="_blank">
   <img title="java" alt="java icon" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </a>
