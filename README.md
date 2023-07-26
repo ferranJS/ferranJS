@@ -24,10 +24,6 @@ Main technologies:
   <img title="tailwind" alt="tailwind icon" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </a>
 &nbsp;
-<a href="https://ngrx.io/" target="_blank">
-  <img title="redux" alt="redux icon" height="50" src="https://skillicons.dev/icons?i=redux" />
-</a>
-&nbsp;
 <a href="https://rxjs.dev/" target="_blank">
   <img title="reactivex" alt="reactivex icon" height="48" src="https://skillicons.dev/icons?i=reactivex" />
 </a>
@@ -59,6 +55,10 @@ More technologies:
 &nbsp;
 <a href="https://filezilla-project.org/" target="_blank">
   <img title="filezilla" alt="filezilla icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
+</a>
+&nbsp;
+<a href="https://ngrx.io/" target="_blank">
+  <img title="redux" alt="redux icon" height="50" src="https://skillicons.dev/icons?i=redux" />
 </a>
 <br><br>
 
