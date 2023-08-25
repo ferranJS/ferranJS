@@ -79,8 +79,8 @@ Eager to try out:
 
 Other ones I've used:
 
-<a href="https://driverjs.com/" target="_blank">
-  <img title="java" alt="java icon" height="43" src="https://driverjs.com/driver-head.svg" />
+<a href="https://www.figma.com/" target="_blank">
+  <img title="figma" alt="figma icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </a>
 <a href="https://dev.java/" target="_blank">
   <img title="java" alt="java icon" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -96,9 +96,11 @@ Other ones I've used:
 <a href="https://gitlab.com/ferranJS" target="_blank">
   <img title="gitlab" alt="gitlab icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 </a>
-<a href="https://www.figma.com/" target="_blank">
-  <img title="figma" alt="figma icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+&nbsp;
+<a href="https://driverjs.com/" target="_blank">
+  <img title="java" alt="java icon" height="43" src="https://driverjs.com/driver-head.svg" />
 </a>
+&nbsp;
 <a href="https://gimp.org/" target="_blank">
   <img title="gimp" alt="gimp icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 </a>
