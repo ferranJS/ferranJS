@@ -1,7 +1,9 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=I'm%20not%20a%20library!&width=510&height=120)](https://github.com/ferranJS/ferranJS)
 
-`(working on a cool portfolio & more projects)`
-
+ [ferran.tech](https://ferran.tech) 
+ 
+ [digitaldispersion.studio](https://digitaldispersion.studio) 
+<!-- 
 Main technologies:
 
 <a href="https://github.com/standard/ts-standard" target="_blank">
@@ -47,7 +49,7 @@ More technologies:
 <!-- &nbsp;
 <a href="https://react.dev/" target="_blank">
   <img title="react" alt="react icon" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</a> -->
+</a> ->
 &nbsp;
 <a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank">
   <img title="php" alt="php icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -55,7 +57,7 @@ More technologies:
 <!-- &nbsp;
 <a href="https://playwright.dev/" target="_blank">
   <img title="playwright" alt="playwright icon" height="45" src="https://playwright.dev/img/playwright-logo.svg" />
-</a> -->
+</a> ->
 &nbsp;
 <a href="https://filezilla-project.org/" target="_blank">
   <img title="filezilla" alt="filezilla icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
