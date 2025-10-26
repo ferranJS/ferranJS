@@ -2,7 +2,7 @@
 
  [ferran.tech](https://ferran.tech) 
  
- [https://digitaldispersion.vercel.app](https://digitaldispersion.vercel.app) 
+ [digitaldispersion.vercel.app](https://digitaldispersion.vercel.app) 
 <!-- 
 Main technologies:
 
